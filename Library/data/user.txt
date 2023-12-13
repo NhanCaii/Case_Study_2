@@ -1,0 +1,3 @@
+0,admin,admin,ADMIN,FALSE
+1,demo,demo,USER,FALSE
+2,user1,user1,USER,FALSE

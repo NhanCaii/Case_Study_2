@@ -1,0 +1,4 @@
+1,Dac Nhan Tam,2,NOVEL,New,10000
+2,Steve Jobs,9,BIOGRAPHY,well-worn,25000
+3,Huong Dan Hoc Java,5,FICTION,bad,9000
+4,Ngoi Nha,10,THRILLER,good,3000
